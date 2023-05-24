@@ -666,7 +666,8 @@ span{
 @media (max-width: 365px)
 {
    .home-img img{
-      width: 60vw;
+      width: 50vw;
+      height: 30vh;
    }
 
    .about-img img{
